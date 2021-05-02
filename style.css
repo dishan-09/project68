@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: white;
+}
+
+.marquee {
+    font-size: 45px;
+    font-family: sans-serif;
+    margin-left: 17%;
+    font-weight: bold;
+}
+
+.campus_mainDiv {
+border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campus_mainDiv img {
+    width: 100%;
+}
+
+.campus_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,.campus_mainDiv p {
+    margin-left: 20px;
+}
+
+input {
+    background: grey;
+}
+
+.achievements_head i {
+    float: right;
+}
+
+.img_responsive {
+    width: 80px;
+    height: 50px;
+}
+
